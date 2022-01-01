@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "title": "Hit the gym",
+      "done": true
+    },
+    {
+      "title": "Pay bills",
+      "done": true,
+      "id": 2
+    },
+    {
+      "title": "Breakfest",
+      "done": false,
+      "id": 3
+    },
+    {
+      "title": "Eating",
+      "done": false,
+      "id": 4
+    },
+    {
+      "title": "Sleeping",
+      "done": false,
+      "id": 5
+    },
+    {
+      "title": "Running",
+      "done": false,
+      "id": 6
+    }
+  ]
+}
